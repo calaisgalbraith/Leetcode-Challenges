@@ -1,2 +1,7 @@
-# leetCode_Challenges
-Various Challenges from LeetCode
+# Leetcode Challenges
+
+## Description
+Repository of solved leetcode challenges.
+
+## Tech Stack
+* Javascript
